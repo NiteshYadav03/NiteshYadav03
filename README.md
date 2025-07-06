@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currenty studying in NITK<br>Ask me about MERN stack and DSA
+I am currently studying in NITK<br>Ask me about MERN stack and DSA and ML
 
 
 # 💻 Tech Stack:
