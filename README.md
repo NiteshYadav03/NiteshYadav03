@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Hi, I'm **Nitesh Yadav**, currently pursuing **MCA at NITK** and working as a **Risk Analyst Intern at Morgan Stanley**.  
+Hi, I'm **Nitesh Yadav**, recently completed **MCA from NITK** and internship as an **Risk Analyst Intern from Morgan Stanley**.  
 I am passionate about **Machine Learning, Backend Engineering, and Problem Solving**. My current focus is on building scalable ML systems, backend APIs, and production-ready applications using Python and modern development tools.
 
 During my internship, I worked on automation and data processing tasks using Python, improving workflow efficiency and reducing manual effort significantly through optimized scripts and production-level solutions.
